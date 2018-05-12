@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Santeri_Alkio
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41482#Syteen-taikka-saveenHuvin-ytelm--1-ss--n-yt-ksess-
 gutenberg_issued: '2012-11-25'
 gutenberg_type: Text
 identifiers:
