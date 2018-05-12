@@ -1,0 +1,37 @@
+_repo: Syteen-taikka-saveenHuvin-ytelm--1-ss--n-yt-ksess-_41482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Paukkunen, Jussi
+    - Filander, Aleksander
+    - Filander, Santeri
+    - Heikkiläinen, Iiska
+    - Heikkilainen, Iiska
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Santeri_Alkio
+    - http://fi.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2012-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41482'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PH'
+title: 'Syteen taikka saveen
+
+  Huvinäytelmä 1:ssä näytöksessä'
+url: http://www.gutenberg.org/ebooks/41482
